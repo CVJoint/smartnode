@@ -16,7 +16,7 @@ import (
 
 	"io/ioutil"
 	"net/http"
-	"github.com/CVJoint/smartnode/tree/packageCreate/notifications/notifcations"
+	"github.com/CVJoint/smartnode/notifications"
 )
 
 const (
